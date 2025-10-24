@@ -23,11 +23,11 @@ The project was developed using:
 ## Folders
 The project files are organized as follows:
 01. **Project Management** - documentation and planning:
-- [Project overview](<docs/1. Project_overview.pdf>)
-- [Data Summary](<docs/2. Data_summary.pdf>)
-- [Interim_Report](<docs/3. Interim Report.pdf>)
-- [Storyboard_Framework](docs/4.%20Storyboard_framework.pdf>)
-- [Data story Outline](<docs/5. Data_story_outline.pdf>) 
+- [Project overview](<01 Project Management/1. Project_overview.pdf>)
+- [Data Summary](<01 Project Management/2. Data_summary.pdf>)
+- [Interim_Report](<01 Project Management/3. Interim Report.pdf>)
+- [Storyboard_Framework](<01 Project Management/4. Storyboard_framework.pdf>)
+- [Data story Outline](<01 Project Management/5. Data_story_outline.pdf>) 
 
 02. **Data** - original and integrated datasets
 - [Original Influenza Deaths dataset](<02 Data/CDC_influenza_deaths_dataset.xlsx>)
@@ -43,6 +43,15 @@ The project files are organized as follows:
 
 04. **Visuals** - storyboard and data storytelling
 - [Preparing for Influenza Season - Tableau Storyboard](<04 Visuals/Influenza_storyboard.twbx>)
+
+**File Access Note**
+
+Due to GitHub’s file size limitations, Excel (.xlsx) and Tableau (.twbx) files cannot be previewed directly in the browser.
+
+To explore the datasets or the storyboard:
+- Click “View raw” or the download icon (⬇️) to download each file to your device.
+- Open Excel files locally to review the data and analysis steps.
+- Open Tableau files (.twbx) using Tableau Desktop or Tableau Public for full interactivity.
 
 ## Explore the Interactive Storyboard** 
 Experience the full version here:
