@@ -25,9 +25,9 @@ The project was developed using:
 **_Note:_**  
 _All project files are included in this repository._ 
 _However, due to GitHub’s file size and preview limitations, Excel (.xlsx) and (.csv) files cannot be viewed directly in the browser._ 
-_For convenience, these files are also hosted on **Google Drive** for easy online viewing and quick access without the need to download them.
+_For convenience, these files are also hosted on **Google Drive** for easy online viewing and quick access without the need to download them._
 
-**PDF documents remain available directly within this repository.**_
+_**PDF documents remain available directly within this repository.**_
 
 The project files are organized as follows:
 01. **Project Management** - documentation and planning:
