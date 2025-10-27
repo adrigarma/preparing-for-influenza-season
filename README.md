@@ -23,7 +23,11 @@ The project was developed using:
 ## Folders
 
 **_Note:_**  
-_Due to GitHub’s file size limitations, Excel workbooks are hosted on **Google Drive_**.  
+_All project files are included in this repository._ 
+_However, due to GitHub’s file size and preview limitations, Excel (.xlsx) and (.csv) files cannot be viewed directly in the browser._ 
+_For convenience, these files are also hosted on **Google Drive** for easy online viewing and quick access without the need to download them.
+
+**PDF documents remain available directly within this repository.**_
 
 The project files are organized as follows:
 01. **Project Management** - documentation and planning:
@@ -48,15 +52,6 @@ The project files are organized as follows:
 04. **Visuals** - storyboard and data storytelling
 - [Preparing for Influenza Season - Tableau Storyboard](<04 Visuals/Influenza_storyboard.twbx>)
 
-**File Access Note**
-
-Due to GitHub’s file size limitations, Excel (.xlsx) and Tableau (.twbx) files cannot be previewed directly in the browser.
-
-To explore the datasets or the storyboard:
-- Click “View raw” or the download icon (⬇️) to download each file to your device.
-- Open Excel files locally to review the data and analysis steps.
-- Open Tableau files (.twbx) using Tableau Desktop or Tableau Public for full interactivity.
-
-## Explore the Interactive Storyboard** 
+## Explore the Interactive Storyboard
 Experience the full version here:
 👉[**Preparing for Influenza Season**](https://public.tableau.com/app/profile/adrigarma/viz/StoryboardInfluenza_17394579382550/PreparingforInfluenzaSeason) on Tableau Public
